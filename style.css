@@ -1,0 +1,16 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.fc{
+    color: chocolate;
+}
+h1{
+    font-size: 60px;
+}
+.bt{
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    
+}
