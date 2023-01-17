@@ -1,16 +1,45 @@
 body{
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
-
-.fc{
+section{
+    display: flex;
+}
+h2{
+    font-size: 350%;
     color: chocolate;
 }
-h1{
-    font-size: 60px;
+.t2{
+    color: rgb(251, 223, 8);
+    font-size: 105%;
 }
-.bt{
-    background-color: brown;
+.half-w{
+    width: 50%;
+    padding: 15px; 
+
+}
+section img{
+    width: 100%;
+}
+.btn{
+    background-image: linear-gradient(orange , rgb(229, 86, 9));
     color: white;
-    padding: 10px;
-    
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 700;
+}
+section div a{
+    background-image: linear-gradient(orange , rgb(229, 86, 9));
+    color: rgb(249, 248, 247);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.link-btn{
+    text-decoration: none;
+}
+.flax{
+    background-image: url(/image/IMG_20191220_153824.jpg);
+    background-repeat: no-repeat;
+
 }
