@@ -1,6 +1,10 @@
+
+
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
+    text-align: center;
+    
 }
 .flexible-container{
     display: flex;
